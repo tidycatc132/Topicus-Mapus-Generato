@@ -7,7 +7,7 @@ import streamlit.components.v1 as components
 
 # --- Page Configuration ---
 st.set_page_config(
-    page_title="AI Topical Map Generator",
+    page_title="Topicus Mapus Generato",
     page_icon="🗺️",
     layout="wide",
     initial_sidebar_state="expanded"
